@@ -1,8 +1,8 @@
-### 👋 Hi, I’m @johnoseni
-### 👀 I’m interested in Full stack web Development
-### 🌱 I’m currently learning Flutter
-### 💞️ I’m looking to collaborate on any project using NodeJS.
-### 📫 How to reach me johnoseni26@gmail.com
+## . 👋 Hi, I’m @johnoseni
+## . 👀 I’m interested in Full stack web Development
+## . 🌱 I’m currently learning Flutter
+## . 💞️ I’m looking to collaborate on any project using NodeJS.
+## . 📫 How to reach me johnoseni26@gmail.com
 
 <!--
 **johnoseni1/johnoseni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

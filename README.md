@@ -1,8 +1,8 @@
 ##### . 👋 Hi, I’m @johnoseni
-##### . 👀 I’m interested in Full stack web Development
+##### . 👀 I’m interested in Full stack Software Development
 ##### . 🌱 I’m currently learning Flutter
 ##### . 🌱 Ask me anything about codinng with typescript and node
-##### . 💞️ I’m looking to collaborate on any project using NodeJS.
+##### . 💞️ I’m looking to collaborate on any project using NodeJS & Typescript.
 ##### . 📫 How to reach me johnoseni26@gmail.com
 
 <!--

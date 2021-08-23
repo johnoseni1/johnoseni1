@@ -2,7 +2,7 @@
 ### . 👀 I’m a 15 years old software Developer
 ### . 🌱 I’m currently into block chain, with the use of Meta mask, Web3, and solidity
 ### . 📫 I'm currently working on flutter as a side Booster
-### . 🌱 Ask me anything about codinng with typescript and node
+### . 🌱 Ask me anything about coding with typescript and node
 ### . 💞️ I’m looking to collaborate on any project using NodeJS, Typescript, React, and block chain
 ### . 📫 How to reach me johnoseni26@gmail.com
 

@@ -15,6 +15,9 @@
 ![](https://komarev.com/ghpvc/?username=johnoseni1&color=green)
 
 
+![]( http://localhost:5100/graph?username=johnoseni1&bg_color=f4fa9c&color=17b978&line=17b978&point=17b978)
+
+
 
 
 

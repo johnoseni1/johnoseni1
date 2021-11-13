@@ -12,7 +12,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnoseni1&langs_count=5&theme=tokyonight)]()
 
-(https://profile-counter.glitch.me/johnoseni1/count.svg)
 
 
 

@@ -12,6 +12,7 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnoseni1&langs_count=5&theme=tokyonight)]()
 
+![](https://komarev.com/ghpvc/?username=johnoseni1&color=green)
 
 
 

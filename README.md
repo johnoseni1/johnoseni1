@@ -14,7 +14,6 @@
 
 ![](https://komarev.com/ghpvc/?username=johnoseni1&color=green)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=johnoseni1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 

@@ -7,6 +7,9 @@
 ##### . 📫 How to reach me johnoseni26@gmail.com
 ##### . ..........
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=johnoseni1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=johnoseni1&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnoseni1&theme=dark)](https://git.io/streak-stats)

@@ -1,10 +1,10 @@
 ##### . 👋 Hi, I’m John Oseni
 ##### . 👀 I’m a 15 years old software Developer
 ##### . 👀 Lover of Open Source contribution
-##### . 🌱 I’m currently into block chain, with the use of Meta mask, Web3, and solidity
-##### . 📫 I'm currently working on flutter as a side Booster
-##### . 🌱 Ask me anything about coding with typescript and node
-##### . 💞️ I’m looking to collaborate on any project using NodeJS, Typescript, React, and block chain
+##### . 🌱 I’m currently into Blockchain, with the use of Metamask, Web3, and Solidity
+##### . 📫 I'm currently working on Flutter as a side Booster
+##### . 🌱 Ask me anything about coding with Typescript and Node
+##### . 💞️ I’m looking to collaborate on any project using NodeJS, Typescript, React, and Blockchain
 ##### . 📫 How to reach me johnoseni26@gmail.com
 ##### . ..........
 
@@ -66,17 +66,11 @@ style="vertical-align:top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" alt="cpp" height="40"
 style="vertical-align:top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
-  
-  
-  
+style="vertical-align:top; margin: 4px"> 
 
 </p>
 
 ## Lots more
-
-
-
 
 
 <!--

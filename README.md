@@ -19,6 +19,10 @@
 
 ![](https://komarev.com/ghpvc/?username=johnoseni1&color=green)
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=johnoseni1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🧰 Languages and Tools:

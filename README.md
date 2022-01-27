@@ -19,7 +19,7 @@
 
 ![](https://komarev.com/ghpvc/?username=johnoseni1&color=green)
 
-![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johnoseni1)
+![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johnoseni1&style=--header-bg-color:%23000;)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=johnoseni1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

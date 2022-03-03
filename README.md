@@ -21,8 +21,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=johnoseni1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![The money](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johnoseni1)]
-
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johnoseni1&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
 ## 🧰 Languages and Tools:
 <p align="center">

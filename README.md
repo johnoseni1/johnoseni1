@@ -6,6 +6,7 @@
 ##### . 🌱 Ask me anything about coding with typescript and node
 ##### . 💞️ I’m looking to collaborate on any project using NodeJS, Typescript, React, and block chain
 ##### . 📫 How to reach me johnoseni26@gmail.com
+##### . 👨🏻‍💻 Portfolio at [https://johnoseni.co/](https://johnoseni.co/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=johnoseni1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

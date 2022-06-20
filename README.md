@@ -1,5 +1,4 @@
 ##### . 👋 Hi, I’m John Oseni
-##### . 👀 I’m a 16 year-old software Developer
 ##### . 👀 Lover of Open Source contribution and Space Advocacy
 ##### . 🌱 I’m currently into block chain, with the use of Meta mask, Web3, and solidity
 ##### . 📫 I'm currently working on flutter as a side Booster

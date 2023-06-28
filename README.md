@@ -19,7 +19,7 @@
 
 ![](https://komarev.com/ghpvc/?username=johnoseni1&color=green)
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johnoseni1&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
+
 
 
 
